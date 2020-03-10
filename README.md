@@ -1,2 +1,4 @@
 # CapstoneProject_1
-This folder contains details about the Capstone project 1 and this project is for detecting frauds based on customer transactions. 
+Machine Learning model for detecting frauds based on customer transactions:
+Most of us must have faced the situation where our card transaction gets denied, even though we know that we have enough funds in our bank for that transaction. And soon after the transaction denial, we get a message from our bank saying ‘Please reply ‘Y’ if you just tried this transaction or else reply ‘N’. Perhaps it is often embarrassing in that moment for us but this fraud prevention system is actually saving consumers millions of dollars per year.
+The aim of this project is to improve this fraud detection further which will also improve the customer experience to get on with their transaction without any hassle. This will help hundreds of thousands of businesses reduce their fraud losses and increase their revenue.
